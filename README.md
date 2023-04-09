@@ -2,6 +2,7 @@
 Real Time Sign Language Detection using Keras-CNN and OpenCV
 
 collect-data.py - To collect images under train and test folders using OpenCV
+
 train.py - To train the CNN model using Keras. The model is saved in two files: 'model-bw.json' and 'model-bw.h5'.
 
 predict.py - For real time prediction using the trained model from before and OpenCV
